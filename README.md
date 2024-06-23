@@ -1,7 +1,6 @@
-# RSV-VACC-DE
-This is the code repository for our paper 
+# Effectiveness and efficiency of immunisation strategies to prevent RSV among infants and older adults in Germany: a modelling study
 
-**"Effectiveness and efficiency of immunisation strategies to prevent RSV among infants and older adults in Germany: a modelling study"**
+Fabienne Krauer, Felix Guenther, Marina Treskova-Schwarzbach, Viktoria Schoenfeld, Mihaly Koltai,  Mark Jit, David Hodgson, Udo Schneider, Ole Wichmann, Thomas Harder, Frank G. Sandmann,  Stefan Flasche
 
 This study is currently published as a preprint on [Medrxiv](https://www.medrxiv.org/content/10.1101/2024.06.20.24309248v1). You are free to use and adapt this model provided you cite the publication and this repository according to scientific citation standards. 
 
