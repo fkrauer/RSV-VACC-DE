@@ -1,5 +1,5 @@
 # RSV-VACC-DE
-
+This is the code repository for our paper **Effectiveness and efficiency of immunisation strategies to prevent RSV among infants and older adults in Germany: a modelling study**. This study is currently published as a preprint on [Medrxiv](https://www.medrxiv.org/content/10.1101/2024.06.20.24309248v1). You are free to use and adapt this model provided you cite the publication and this repository according to scientific citation standards. 
 
 ## Software
 The main model code is written in Julia and fitted with [Turing](https://turing.ml/dev/). You can download Julia [here](https://julialang.org/downloads/). 
