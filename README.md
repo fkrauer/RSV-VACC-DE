@@ -1,10 +1,11 @@
 # Effectiveness and efficiency of immunisation strategies to prevent RSV among infants and older adults in Germany: a modelling study
 
-Fabienne Krauer<sup>1</sup>, Felix Guenther<sup>2</sup>, Marina Treskova-Schwarzbach<sup>2</sup>, Viktoria Schoenfeld<sup>2</sup>, Mihaly Koltai<sup>1</sup>,  Mark Jit<sup>1</sup>, David Hodgson<sup>1</sup>, Udo Schneider<sup>3</sup>, Ole Wichmann<sup>2</sup>, Thomas Harder<sup>2</sup>, Frank G. Sandmann<sup>2</sup>,  Stefan Flasche<sup>1</sup>
+Fabienne Krauer<sup>1</sup>, Felix Guenther<sup>2</sup>, Marina Treskova-Schwarzbach<sup>2</sup>, Viktoria Schoenfeld<sup>2</sup>, Mihaly Koltai<sup>1</sup>,  Mark Jit<sup>1</sup>, David Hodgson<sup>1</sup>, Udo Schneider<sup>3</sup>, Ole Wichmann<sup>2</sup>, Thomas Harder<sup>2</sup>, Frank G. Sandmann<sup>2</sup>,  Stefan Flasche<sup>1,4</sup>
 
 <sup>1</sup> London School of Hygiene & Tropical Medicine<br>
 <sup>2</sup> Robert Koch Institute<br>
 <sup>3</sup> Techniker Krankenkasse
+<sup>4</sup> Centre for Global Health, Charite – Universitaetsmedizin Berlin
 
 This study is currently published as a preprint on [Medrxiv](https://www.medrxiv.org/content/10.1101/2024.06.20.24309248v1). You are free to use and adapt this model provided you cite the publication and this repository according to scientific citation standards. 
 
