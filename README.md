@@ -4,7 +4,7 @@ Fabienne Krauer<sup>1</sup>, Felix Guenther<sup>2</sup>, Marina Treskova-Schwarz
 
 <sup>1</sup> London School of Hygiene & Tropical Medicine<br>
 <sup>2</sup> Robert Koch Institute<br>
-<sup>3</sup> Techniker Krankenkasse
+<sup>3</sup> Techniker Krankenkasse<br>
 <sup>4</sup> Centre for Global Health, Charite – Universitaetsmedizin Berlin
 
 This study is currently published as a preprint on [Medrxiv](https://www.medrxiv.org/content/10.1101/2024.06.20.24309248v1). You are free to use and adapt this model provided you cite the publication and this repository according to scientific citation standards. 
