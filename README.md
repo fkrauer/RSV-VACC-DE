@@ -1,4 +1,29 @@
-# RSV-VACC-DE
+# Effectiveness and efficiency of immunisation strategies to prevent RSV among infants and older adults in Germany: a modelling study
+
+Fabienne Krauer<sup>1</sup>, Felix Guenther<sup>2</sup>, Marina Treskova-Schwarzbach<sup>2</sup>, Viktoria Schoenfeld<sup>2</sup>, Mihaly Koltai<sup>1</sup>,  Mark Jit<sup>1</sup>, David Hodgson<sup>1</sup>, Udo Schneider<sup>3</sup>, Ole Wichmann<sup>2</sup>, Thomas Harder<sup>2</sup>, Frank G. Sandmann<sup>2</sup>,  Stefan Flasche<sup>1</sup>
+
+<sup>1</sup> London School of Hygiene & Tropical Medicine<br>
+<sup>2</sup> Robert Koch Institute<br>
+<sup>3</sup> Techniker Krankenkasse
+
+This study is currently published as a preprint on [Medrxiv](https://www.medrxiv.org/content/10.1101/2024.06.20.24309248v1). You are free to use and adapt this model provided you cite the publication and this repository according to scientific citation standards. 
+
+## Abstract
+Background 
+
+Recently, several novel RSV immunisation products that protect infants and older adults against RSV disease have been licensed in Europe. We estimated the effectiveness and efficiency of introducing these RSV immunisation strategies in Germany. 
+
+Methods 
+
+We used a Bayesian framework to fit an age-structured dynamic transmission model of RSV to sentinel surveillance and RSV-specific hospitalisation data in Germany from 2015-2019. The calibrated model was used to evaluate different RSV intervention strategies over five years: long-acting, single-dose monoclonal antibodies (mAbs) in high-risk infants aged 1-5 months; long-acting mAbs in all infants aged 1-5 months; seasonal vaccination of pregnant women and one-time seasonal vaccination of older adults (75+/65+/55+ years). We performed sensitivity analysis on vaccine uptake, seasonal vs. year-round maternal vaccination, and the effect of under-ascertainment for older adults. 
+
+Results 
+
+The model was able to match the various RSV datasets. Replacing the current short-acting mAB for high-risk infants with long-acting mAbs prevented 1.1% of RSV-specific hospitalisations in infants per year at the same uptake. Expanding the long-acting mAB programme to all infants prevented 39.3% of infant hospitalisations per year. Maternal vaccination required a larger number to be immunised to prevent one additional hospitalisation than a long-acting mAB for the same uptake. Vaccination of adults older than 75 years at an uptake of 40% in addition to Nirsevimab in all infants prevented an additional 4.5% of all RSV-hospitalisations over five years, with substantial uncertainty in the correction for under-ascertainment of the RSV burden. 
+
+Conclusions 
+
+Immunisation has the potential to reduce the RSV disease burden in Germany.
 
 
 ## Software
